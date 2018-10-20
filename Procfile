@@ -1,1 +1,1 @@
-worker node sdsad.js
+worker node bot.js
